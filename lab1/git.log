@@ -1,1 +1,23 @@
-git log file
+commit c773e5891e6ca6bf8b45a47bb542a5d1027fb27e
+Author: Кирилл Кондратюк <kirillzont@gmail.com>
+Date:   Sat May 30 09:30:40 2026 +0300
+
+    add lab1 folder with git.log
+
+commit 99205f4abeed11cb949fdbcd36e040c57c2a8b03
+Author: Кирилл Кондратюк <kirillzont@gmail.com>
+Date:   Fri May 29 20:02:18 2026 +0300
+
+    lab2: add client.log and server.log
+
+commit d11091e322dc9b9fafffb59440c3edef8c10a47f
+Author: Кирилл <kirill.kondratuykk@gmail.com>
+Date:   Sat Feb 21 11:24:50 2026 +0300
+
+    first commit
+
+commit df3b216d5e17be833ae36ae8bfaf3aab8f0c5417
+Author: kirill-kondratuyk <kirillzont@gmail.com>
+Date:   Sat Feb 21 11:20:34 2026 +0300
+
+    Initial commit
